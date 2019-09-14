@@ -1,0 +1,13 @@
+Sebastian Ludlow 
+ID:2290555 
+Assignment 1
+Dna String 1: A: 2 C: 0 T: 1 G: 0 Total: 3 Brigam A: 1 Brigam C: 0 Brigam T: 0 Brigam G: 0 Mean A: 0.666667 Mean C: 0 Mean T: 0.333333 Mean G: 0
+Dna String 2: A: 2 C: 0 T: 0 G: 0 Total: 2 Brigam A: 1 Brigam C: 0 Brigam T: 0 Brigam G: 0 Mean A: 1 Mean C: 0 Mean T: 0 Mean G: 0
+Dna String 3: A: 2 C: 0 T: 1 G: 0 Total: 3 Brigam A: 1 Brigam C: 0 Brigam T: 0 Brigam G: 0 Mean A: 0.666667 Mean C: 0 Mean T: 0.333333 Mean G: 0
+Dna String 4: A: 1 C: 1 T: 1 G: 2 Total: 5 Brigam A: 0 Brigam C: 0 Brigam T: 0 Brigam G: 1 Mean A: 0.2 Mean C: 0.2 Mean T: 0.2 Mean G: 0.4
+Dna String 5: A: 2 C: 2 T: 2 G: 2 Total: 8 Brigam A: 0 Brigam C: 0 Brigam T: 0 Brigam G: 0 Mean A: 0.25 Mean C: 0.25 Mean T: 0.25 Mean G: 0.25
+Dna String 6: A: 4 C: 4 T: 5 G: 4 Total: 17 Brigam A: 0 Brigam C: 0 Brigam T: 0 Brigam G: 0 Mean A: 0.235294 Mean C: 0.235294 Mean T: 0.294118 Mean G: 0.235294
+Dna String 7: A: 4 C: 4 T: 4 G: 4 Total: 16 Brigam A: 0 Brigam C: 0 Brigam T: 0 Brigam G: 0 Mean A: 0.25 Mean C: 0.25 Mean T: 0.25 Mean G: 0.25
+Dna String 8: A: 3 C: 2 T: 2 G: 4 Total: 11 Brigam A: 1 Brigam C: 1 Brigam T: 1 Brigam G: 3 Mean A: 0.272727 Mean C: 0.181818 Mean T: 0.181818 Mean G: 0.363636
+Totals:  A: 20 C: 13 T: 16 G: 16 Total: 65
+Mean:  A: 0.307692 C: 0.2 T: 0.246154 G: 0.246154 Variance: 112.3 Standard Deviation: 10.5972
